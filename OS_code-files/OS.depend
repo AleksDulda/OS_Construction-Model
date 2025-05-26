@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748183448 source:/home/aleks01/Desktop/OS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+	<sys/wait.h>
+	<time.h>
+
